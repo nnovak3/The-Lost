@@ -99,6 +99,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -712,6 +713,32 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Temp_Projectile1: -2352664292424988395
+      Temp_Projectile2: 5520142414625190708
+      Enemy_0: -6519093229853959444
+      Temp_Floor6: 8048473532553995866
+      Temp_Floor8: -2800260258276310945
+      Temp_Floor0: 5533008131009906317
+      Temp_PlainFloor: 1255485365229591070
+      Temp_Weapon0: -7999401007662169846
+      Temp_Floor4: -8298200636828843747
+      Temp_Floor3: 1435234281908170068
+      Temp_Floor7: 5550686899850470226
+      Temp_Wall0: 4808579834681279991
+      Player_0: 5244341691145186986
+      Temp_Floor2: 3008251842437250507
+      Temp_Floor9: 6886059416332282220
+      Temp_Projectile3: 8305743599954931857
+      Temp_Floor1: 3923876779312930633
+      Temp_Wall1: -8348615871810319271
+      Temp_Floor11: 1989600231220010895
+      Temp_Floor10: 8431844515196504089
+      Temp_PlainWall: -8196461490270318449
+      Temp_Projectile4: 2580654244531387518
+      Temp_Floor5: 2345876597516537908
+      Temp_Weapon1: -42472407576098278
+      Temp_Projectile0: 9115735390014219163
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
